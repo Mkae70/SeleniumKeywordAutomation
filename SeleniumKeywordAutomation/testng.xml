@@ -2,7 +2,7 @@
 <suite name="Suite" parallel="false">
   <test name="Test">
     <classes>
-      <class name="org.isb.training.java.NewTest"/>
+      <class name="org.isb.training.java.LoadTest01"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
